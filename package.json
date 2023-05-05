@@ -1,0 +1,23 @@
+{
+  "name": "automatesomething",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "auto": "ts-node automated.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APolk10/AutomateSomething.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/APolk10/AutomateSomething/issues"
+  },
+  "homepage": "https://github.com/APolk10/AutomateSomething#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0"
+  }
+}
